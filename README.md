@@ -21,14 +21,12 @@ Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,cpp)](https://skillicons.dev)
 
-JAVASCRIPT || PYTHON || C++
 
 
 Tech Stack : 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,django)](https://skillicons.dev)
 
-HTML || CSS || REACT.JS || NEXT.JS || DJANGO
 
 
 <!--
